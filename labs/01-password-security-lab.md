@@ -23,3 +23,6 @@ A short report documenting:
 - Secure password examples
 
 ## Safe Example Passwords
+- correct-horse-battery-staple-2025
+- P@55w0rd!123 → (flagged: predictable pattern)
+- 4&9$kLq!mZ*2#8 → (strong: random, long, non-patterned)
