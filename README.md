@@ -17,7 +17,7 @@ This course provides a solid foundation in:
 
 ---
 
-## 📚 Notes (by modules)
+## 📚 Notes 
 
 - 📄 [`01-introduction.md`](./notes/01-introduction.md) – Industry overview and security practitioner mindset
 - 📄 [`02-cyber-threats.md`](./notes/02-cyber-threats.md) – Types of threats and common attack models
@@ -30,7 +30,7 @@ This course provides a solid foundation in:
 
 ---
 
-## 🧪 Labs (Simulated hands-on practice)
+## 🧪 Labs 
 
 - 🔍 [`lab1-threat-intel-basics.md`](./labs/lab1-threat-intel-basics.md) – Threat collection & evaluation
 - 📊 [`lab2-incident-analysis-starter.md`](./labs/lab2-incident-analysis-starter.md) – Log analysis, timeline building, hypothesis validation
@@ -38,7 +38,7 @@ This course provides a solid foundation in:
 
 ---
 
-## 📋 Playbooks (Operational scenarios after learning)
+## 📋 Playbooks 
 
 - ✅ [`01-career-engagement-plan.md`](./operations/01-career-engagement-plan.md) – Plan for building profile & applying for security roles
 - ✅ [`02-cert-validation-playbook.md`](./operations/02-cert-validation-playbook.md) – Proper process for verifying certificates
@@ -46,7 +46,7 @@ This course provides a solid foundation in:
 
 ---
 
-## 🔬 Research (Market and skill analysis)
+## 🔬 Research 
 
 - 📑 [`entry-level-skill-benchmarking.md`](./research/entry-level-skill-benchmarking.md) – Benchmarking entry-level security skills
 - 🌍 [`role-market-analysis.md`](./research/role-market-analysis.md) – Analysis of InfoSec workforce demand in 2025
@@ -64,7 +64,7 @@ This course provides a solid foundation in:
 
 ---
 
-## 📸 Screenshots (Course illustration)
+## 📸 Screenshots 
 
 | Category | Image |
 |---|---|
