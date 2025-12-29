@@ -47,4 +47,4 @@ This certificate has been reviewed for authenticity and relevance, and mapped to
 ---
 
 ## 6. Certificate Naming Convention for Repo
-cert-<domain>-<issuer>-<year>.<format>
+- cert - <domain> - <issuer> - <year> . <format>
